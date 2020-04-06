@@ -16,6 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots: 
+<br>
 - Page 1 <br>
 <img src="https://raw.githubusercontent.com/VaniIndrali/challenge_ui_shop/master/images/for%20github/ss.jpg" width="250" height="450" > <br><br>
 - Page 2 <br>
