@@ -1,0 +1,3 @@
+Note: 
+
+ss and ss1 images are only for github. This folder can be deleted if required.
